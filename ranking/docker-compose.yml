@@ -1,0 +1,19 @@
+version: '3'
+services:
+  flask:
+    build:
+      context: .
+      dockerfile: Dockerfile    
+    command: gunicorn -b 0.0.0.0:5000 ranking:app --reload
+    environment:
+      - FLASK_APP=solution.py
+      - FLASK_DEBUG=1
+      - PYTHONUNBUFFERED=True
+      - EMB_PATH_KNRM="./knrm/knrm_emb.bin"
+      - MLP_PATH="./knrm/knrm_mlp.bin"
+      - EMB_PATH_GLOVE="/data/glove.6B.50d.txt"
+      - VOCAB_PATH="./knrm/vocab.json"
+    ports:
+      - "5001:5000"
+    volumes:
+      - ./:/root

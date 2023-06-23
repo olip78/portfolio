@@ -1,0 +1,55 @@
+{
+    "random_state": 165,
+    "extract": "n1_serving_extract_config.json",
+    "transform": [
+        {
+            "type": "pipeline_pickle",
+            "path": "n1_serving_transform_pipeline.pickle"
+        },
+        {
+            "type": "model_apply",
+            "model_path": "n1_model_r_n5.pickle",
+            "col_result": "n1_upmodel_score"
+        },
+        {
+            "type": "binning",
+            "args": {
+                "col_value": "n1_upmodel_score",
+                "col_result": "n1_treatment",
+                "bins": [
+                    -2.03865
+                ],
+                "labels": [
+                    "no_offer",
+                    "offer"
+                ]
+            }
+        }
+    ],
+    "groups": [
+        {
+            "name": "control",
+            "size": 50000,
+            "treatment_params": {
+                "type": "constant",
+                "treatment": "no_offer"
+            }
+        },
+        {
+            "name": "always_offer",
+            "size": 50000,
+            "treatment_params": {
+                "type": "constant",
+                "treatment": "offer"
+            }
+        },
+        {
+            "name": "selected_for_model",
+            "size": 1000000,
+            "treatment_params": {
+                "type": "from_column",
+                "col_treatment": "n1_treatment"
+            }
+        }
+    ]
+}
