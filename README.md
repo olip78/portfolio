@@ -1,1 +1,1 @@
-see <b>portfolio</b> branch
+see <i>portfolio</i> branch
