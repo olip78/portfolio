@@ -1,8 +1,6 @@
 # Data science portfolio
 ### <sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
 
-#### <sup>Additional practical / learning activities complementing professional experience</sup>
-
 #### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub><sub>November 2022 - May 2023, karpov.courses</sub></sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 ###### <i>Five practical two-weeks projects:</i> [code and documentation](./)
@@ -38,6 +36,6 @@ ML Simulator (in progress), karpov.courses<br>
 [Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
 Databases and SQL for Data Science with Python, IBM
-
 <h6><i>Books:</i></h6>
+
 Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
