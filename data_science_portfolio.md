@@ -27,14 +27,15 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 [<b>Machine Learning and Data Analysis</b>](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)
 <br>
 Machine learning, optimization and statistics for data science, practical data analysis
-<h5><i>Projects:</i></h5>
+<h6><i>Projects:</i></h6>
+
 - Identification of a specific user by tracking logs of attended Web pages: [GitHub](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 - Customer churn prediction on blind data of a telecommunication company
 - New York taxi multiple forecasting
 
 <h6><sub>sinse 2020</sub></h6>
 <b>Other activities</b>
-<h5><i>Courses:</i></h5>
+<h6><i>Courses:</i></h6>
 ML Simulator (in progress), karpov.courses<br>
 
 [Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
@@ -43,9 +44,9 @@ ML Simulator (in progress), karpov.courses<br>
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
 [Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
-Databases and SQL for Data Science with Python, IBM<br>
+Databases and SQL for Data Science with Python, IBM
 
-<h5><i>Books:</i></h5>
+<h6><i>Books:</i></h6>
 Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
 
 
