@@ -8,4 +8,4 @@
 5. ML Services: Deployment
 
 ## Hard ML advanced training: practical projects
-[Additional practical/learning activities complementing professional experience]
+[Additional practical/learning activities complementing professional experience](./data_science_portfolio.md)
