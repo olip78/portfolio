@@ -1,15 +1,12 @@
 # Data science portfolio
-### Andrei Chekunov<br><sup>Additional practical / learning activities complementing professional experience</sup>
-
-### Andrei Chekunov<br><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
-
-### Andrei Chekunov<br><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
-<br>
-
+### Andrei Chekunov<br><br><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
+### Andrei Chekunov<sup><sup><br><br>Additional practical / learning activities complementing professional experience</sup></sup>
 
 #### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub><sub>November 2022 - May 2023, karpov.courses</sub></sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 <i>Five practical two-weeks projects: </i>[code and documentation](./)
+
+<h6><i>Five practical two-weeks projects:</i> [code and documentation](./)</h6>
 
 #### Advanced Machine Learning Specialization<br><sub><sub>January - May 2021, Higher School of Economics, Moscow</sub></sub>
 
