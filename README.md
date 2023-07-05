@@ -7,5 +7,4 @@
 4. [Dynamic pricing](./dynamic_pricing)
 5. ML Services: Deployment
 
-## Hard ML advanced training: practical projects
-[Additional practical / learning activities complementing professional experience](./data_science_portfolio.md)
+#### [Additional practical / learning activities complementing professional experience](./data_science_portfolio.md)
