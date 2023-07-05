@@ -20,10 +20,10 @@ Advanced Machine Learning Specialization
 [<sub>how to win a data science competition</sub>](https://www.coursera.org/account/accomplishments/certificate/9K7TCLFRHCTS)
 
 <br>
-<sub>
-<i>Projects:</i><br>
+<sub><i>Projects:</i><br></sub>
 
-- Multiple sales prediction: [<sub>GitHub</sub>](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams [<sub>on Kaggle</sub>](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)
+- <sub>Multiple sales prediction:</sub> 
+  [<sub>GitHub</sub>](https://github.com/olip78/Predict_Future_Sales/); <sub>78th place out of about 12 000 teams</sub> [<sub>on Kaggle</sub>](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)
 - <sub>Other projects: Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot</sub>
 
 
