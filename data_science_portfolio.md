@@ -21,7 +21,7 @@ Advanced Machine Learning Specialization
 <br>
 <sub><i>Projects:</i><br></sub>
 <sub>Multiple sales prediction:</sub> [<sub>GitHub</sub>](https://github.com/olip78/Predict_Future_Sales/)<sub>; 78th place out of about 12 000 teams</sub> [<sub>on Kaggle</sub>](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)
-<sub><br>Other projects: Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot</sub>
+<sub><br>Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot</sub>
 
 
 
@@ -34,19 +34,16 @@ Machine learning, optimization and statistics for data science, practical data a
 <br>
 <sub><i>Projects:</i><br></sub>
 <sub>Identification of a specific user by tracking logs of attended Web pages:</sub> [<sub>GitHub</sub>](https://github.com/olip78/Catch-Me-If-You-Can.git)<sub>; 10th place out of about 4 700 teams </sub>[<sub>on Kaggle</sub>](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
-<sub><br>>Customer churn prediction on blind data of a telecommunication company
+<sub><br>Customer churn prediction on blind data of a telecommunication company
 <br>New York taxi multiple forecasting</sub>
 
 
 
-
-<span style="color:gray;font-size:11px;">sinse 2020</span><br>
+<h6>sinse 2020</h6>
 Other activities<br>
-<span style="font-size:12px;">
-<i>Courses: </i></span>
-<span style="font-size:12px;"><br>
-ML Simulator (in progress), karpov.courses, <br>
-[Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
+<sub><i>Courses: </i></sub><br>
+<sub>ML Simulator (in progress), karpov.courses, <br></sub>
+[<sub>Deep Learning Specialization</sub>](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a)<sub>, Deep Learning.AI<br></sub>
 [NLP with Attention Models](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f), [NLP with Sequence Models](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0), Deep Learning.AI<br>
 [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
@@ -54,7 +51,5 @@ ML Simulator (in progress), karpov.courses, <br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
 Databases and SQL for Data Science with Python, IBM<br>
 </span>
-<span style="font-size:12px;">
-<i>Books: </i></span><br>
-<span style="font-size:12px;">
-Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts</span>
+<sub><i>Books: </i><br>
+Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts</sub>
