@@ -10,7 +10,7 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 <i>Five practical two-weeks projects: </i>[code and documentation](./)
 
 <h6><sub>January - May 2021, Higher School of Economics, Moscow</sub></h6>
-<b>Advanced Machine Learning Specialization</b><br>
+##### Advanced Machine Learning Specialization</b>
 
 [Introduction to deep learning](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
 [natural language processing](https://www.coursera.org/account/accomplishments/certificate/ATCRU4SVY8XC), 
@@ -25,7 +25,7 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 <h6><sub>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technoogy</sub></h6>
 
 ##### [Machine Learning and Data Analysis](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)
-Machine learning, optimization and statistics for data science, practical data analysis
+Machine learning, optimization and statistics for data science, practical data analysis<br>
 <i>Projects:</i>
 
 - Identification of a specific user by tracking logs of attended Web pages: [GitHub](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
@@ -40,6 +40,7 @@ Machine learning, optimization and statistics for data science, practical data a
 - New York taxi multiple forecasting
 
 <h6><sub>sinse 2020</sub></h6>
+
 ##### Other activities
 <h6><i>Courses:</i></h6>
 ML Simulator (in progress), karpov.courses<br>
@@ -53,4 +54,20 @@ ML Simulator (in progress), karpov.courses<br>
 Databases and SQL for Data Science with Python, IBM
 
 <h6><i>Books:</i></h6>
+Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
+
+
+##### Other activities
+<i>Courses:</i>
+ML Simulator (in progress), karpov.courses<br>
+
+[Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
+[NLP with Attention Models](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f), [NLP with Sequence Models](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0), Deep Learning.AI<br>
+[TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 
+[Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
+[Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
+[Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
+Databases and SQL for Data Science with Python, IBM
+
+<i>Books:</i>
 Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
