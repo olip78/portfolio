@@ -1,11 +1,11 @@
 # Data science portfolio
-### <sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
+## <sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
 
 #### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub>November 2022 - May 2023, karpov.courses</sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 ###### <i>Five practical two-weeks projects:</i> [code and documentation](./)
 
-#### Advanced Machine Learning Specialization<br><sub><sub>January - May 2021, Higher School of Economics, Moscow</sub></sub>
+#### Advanced Machine Learning Specialization<br><sub>January - May 2021, Higher School of Economics, Moscow</sub>
 
 [Introduction to deep learning](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
 [natural language processing](https://www.coursera.org/account/accomplishments/certificate/ATCRU4SVY8XC), 
@@ -17,7 +17,7 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 - Multiple sales prediction: [GitHub](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams  [on Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)
 - Other projects: Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot
 
-#### [Machine Learning and Data Analysis](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)<br><sub><sub>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technology</sub></sub>
+#### [Machine Learning and Data Analysis](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)<br><sub>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technology</sub>
 Machine learning, optimization and statistics for data science, practical data analysis
 ###### <i>Projects:</i>
 
@@ -25,7 +25,7 @@ Machine learning, optimization and statistics for data science, practical data a
 - Customer churn prediction on blind data of a telecommunication company
 - New York taxi multiple forecasting
 
-#### Other activities<br><sub><sub>sinse 2020</sub></sub>
+#### Other activities<br><sub>sinse 2020</sub>
 <h6><i>Courses:</i></h6>
 ML Simulator (in progress), karpov.courses<br>
 
