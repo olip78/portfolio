@@ -20,9 +20,8 @@ Advanced Machine Learning Specialisation
 [addressing large hadron collider challenges](https://www.coursera.org/account/accomplishments/certificate/9GM595X2AU2U), 
 [how to win a data science competition](https://www.coursera.org/account/accomplishments/certificate/9K7TCLFRHCTS)
 </sub>
-<sub><br>
-<i>Projects: </i>
-</sub>
+<br>
+*Projects:*
 - <sub>Multiple sales prediction: [GitHub](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams [on Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)</sub>
 - <sub>Other projects: Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot</sub>
 
