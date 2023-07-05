@@ -25,16 +25,17 @@ Advanced Machine Learning Specialization
 
 
 
-<h6>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technoogy </h6><br>
+<h6>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technoogy </h6>
+
 [Machine Learning and Data Analysis](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)
 <sub><br>
 Machine learning, optimization and statistics for data science, practical data analysis
 </sub>
 <br>
 <sub><i>Projects:</i><br></sub>
-<sub>Identification of a specific user by tracking logs of attended Web pages:</sub> [<sub>GitHub</sub>](https://github.com/olip78/Catch-Me-If-You-Can.git)<sub>; 10th place out of about 4 700 teams </sub>[<sub>on Kaggle</sub>](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)</span>
-<sub><br>>Customer churn prediction on blind data of a telecommunication company</sub>
-<sub><br>New York taxi multiple forecasting</sub>
+<sub>Identification of a specific user by tracking logs of attended Web pages:</sub> [<sub>GitHub</sub>](https://github.com/olip78/Catch-Me-If-You-Can.git)<sub>; 10th place out of about 4 700 teams </sub>[<sub>on Kaggle</sub>](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
+<sub><br>>Customer churn prediction on blind data of a telecommunication company
+<br>New York taxi multiple forecasting</sub>
 
 
 
