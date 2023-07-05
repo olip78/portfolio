@@ -20,13 +20,15 @@ Advanced Machine Learning Specialization
 [<sub>how to win a data science competition</sub>](https://www.coursera.org/account/accomplishments/certificate/9K7TCLFRHCTS)
 
 <br>
-*Projects:*
-- <sub>Multiple sales prediction: [GitHub](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams [on Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)</sub>
+<sub>
+<i>Projects:</i><br>
+
+- Multiple sales prediction: [<sub>GitHub</sub>](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams [<sub>on Kaggle</sub>](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)
 - <sub>Other projects: Facial composites (bayesian optimization of a similarity function between a person’s face inwitness’s memory and a face, reconstructed from the current point of latent space of a variational autoencoder), Image captioning (an ensemble of vision deep learning CNN and language generating RNN), StackOverflow assistant bot</sub>
 
 
 
-<span style="color:gray;font-size:11px;">January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technoogy </span><br>
+<h6>January - June 2019, May - June 2020, July 2021, Yandex  & Moscow Institute of Physics and Technoogy </h6><br>
 [Machine Learning and Data Analysis](https://coursera.org/share/eb084366cd4cc9a157906a160cf6fc06)
 <span style="font-size:12px;"><br>
 Machine learning, optimization and statistics for data science, practical data analysis
