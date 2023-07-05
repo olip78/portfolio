@@ -11,15 +11,14 @@
 <i>Five practical two-weeks projects: </i>[code and documentation](./)
 </sub>
 <h6>January - May 2021, Higher School of Economics, Moscow</h6>
-Advanced Machine Learning Specialisation
-<sub>
+Advanced Machine Learning Specialization
 
-[Introduction to deep learning](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F), 
-[natural language processing](https://www.coursera.org/account/accomplishments/certificate/ATCRU4SVY8XC), 
-[bayesian methods for machine learning](https://www.coursera.org/account/accomplishments/certificate/GASYGRESHB7X), 
-[addressing large hadron collider challenges](https://www.coursera.org/account/accomplishments/certificate/9GM595X2AU2U), 
-[how to win a data science competition](https://www.coursera.org/account/accomplishments/certificate/9K7TCLFRHCTS)
-</sub>
+[<sub>Introduction to deep learning</sub>](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
+[<sub>natural language processing</sub>](https://www.coursera.org/account/accomplishments/certificate/ATCRU4SVY8XC), 
+[<sub>bayesian methods for machine learning</sub>](https://www.coursera.org/account/accomplishments/certificate/GASYGRESHB7X), 
+[<sub>addressing large hadron collider challenges</sub>](https://www.coursera.org/account/accomplishments/certificate/9GM595X2AU2U), 
+[<sub>how to win a data science competition</sub>](https://www.coursera.org/account/accomplishments/certificate/9K7TCLFRHCTS)
+
 <br>
 *Projects:*
 - <sub>Multiple sales prediction: [GitHub](https://github.com/olip78/Predict_Future_Sales/); 78th place out of about 12 000 teams [on Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview)</sub>
