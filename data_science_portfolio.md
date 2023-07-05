@@ -43,8 +43,9 @@ Machine learning, optimization and statistics for data science, practical data a
 Other activities<br>
 <sub><i>Courses: </i></sub><br>
 <sub>ML Simulator (in progress), karpov.courses, <br></sub>
+
 [<sub>Deep Learning Specialization</sub>](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a)<sub>, Deep Learning.AI<br></sub>
-[NLP with Attention Models](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f), [NLP with Sequence Models](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0), Deep Learning.AI<br>
+[<sub>NLP with Attention Models</sub>](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f)<sub>,</sub> [<sub>NLP with Sequence Models</sub>](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0)<sub>, Deep Learning.AI<br></sub>
 [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
 [Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
