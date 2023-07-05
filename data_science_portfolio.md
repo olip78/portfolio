@@ -4,6 +4,7 @@
 <h5>Additional practical / learning activities complementing professional experience</h5>
 
 <h6><sub>November 2022 - May 2023, karpov.courses</sub></h6>
+
 [<b>Hard ML: intensive professional development for mid / senior level professionals</b>](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 <i>Five practical two-weeks projects: </i>[code and documentation](./)
@@ -34,10 +35,10 @@ Machine learning, optimization and statistics for data science, practical data a
 
 <h6><sub>sinse 2020</sub></h6>
 Other activities<br>
-<i>Courses: </i><br>
-ML Simulator (in progress), <sub>karpov.courses</sub> <br>
+<i>Courses: </i><br><br>
+ML Simulator (in progress), karpov.courses<br>
 
-[Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a),<sub> Deep Learning.AI</sub><br>
+[Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
 [NLP with Attention Models](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f), [NLP with Sequence Models](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0), Deep Learning.AI<br>
 [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
@@ -45,5 +46,5 @@ ML Simulator (in progress), <sub>karpov.courses</sub> <br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
 Databases and SQL for Data Science with Python, IBM<br>
 
-<i>Books: </i><br>
+<i>Books: </i><br><br>
 Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
