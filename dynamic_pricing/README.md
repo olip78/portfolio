@@ -57,6 +57,8 @@ $P_{d}$, $C_{d}$ price and cost of the product on day $d$
 
 $S\_{cum\_d}=\sum_{d-1}S_{d}$
 
+$B$ - back bonus
+
 $r_{d}$ - sales dynamic: 
 $$r_{d} = \dfrac{29}{(d-1)\cdot S\_{plan}}\cdot S\_{cum\_d}  $$
 $b_{0}$, $b_{1}$ - low and upper bounds, $b_{1}=1.01$, $b_{0}$ - a kind of sigmoid function on $d$
