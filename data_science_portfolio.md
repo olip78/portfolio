@@ -3,12 +3,12 @@
 
 ### Andrei Chekunov<br><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
 
-### Andrei Chekunov<br><sup><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup></sup>
+#### Andrei Chekunov<br><br><sup><sup>Additional practical / learning activities complementing professional experience</sup></sup>
 
 
 
 
-#### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub><sub><sub>November 2022 - May 2023, karpov.courses</sub></sub></sub>
+#### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub><sub>November 2022 - May 2023, karpov.courses</sub></sub>
 
 <h6><sub>November 2022 - May 2023, karpov.courses</sub></h6>
 
