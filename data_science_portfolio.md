@@ -5,14 +5,14 @@
 
 <h6><sub>November 2022 - May 2023, karpov.courses</sub></h6>
 
-[<b>Hard ML: intensive professional development for mid / senior level professionals</b>](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<sub>br</sub>
+[<b>Hard ML: intensive professional development for mid / senior level professionals</b>](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<sub><sub><br></sub></sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 <i>Five practical two-weeks projects: </i>[code and documentation](./)
 
-<h6>January - May 2021, Higher School of Economics, Moscow</h6>
-<b>Advanced Machine Learning Specialization</b><sub>br</sub>
+<h6><sub>January - May 2021, Higher School of Economics, Moscow</sub></h6>
+<b>Advanced Machine Learning Specialization</b><sub><br></sub>
 
-[Introduction to deep learning<](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
+[Introduction to deep learning](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
 [natural language processing](https://www.coursera.org/account/accomplishments/certificate/ATCRU4SVY8XC), 
 [bayesian methods for machine learning](https://www.coursera.org/account/accomplishments/certificate/GASYGRESHB7X), 
 [addressing large hadron collider challenges](https://www.coursera.org/account/accomplishments/certificate/9GM595X2AU2U), 
