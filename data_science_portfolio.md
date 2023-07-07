@@ -1,6 +1,6 @@
 ## Additional practical / learning activities complementing professional experience
 
-#### [Hard ML: intensive professional development for mid / senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub>November 2022 - May 2023, karpov.courses</sub>
+#### [Hard ML: intensive professional development for mid/senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub>November 2022 - May 2023, karpov.courses</sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
 ###### <i>Five practical two-weeks projects:</i> [code and documentation](./)
 <br>

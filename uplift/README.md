@@ -25,9 +25,9 @@ $d$ - value of discount, $d=40$.
 
 ## Solution content 
 
-- Development of a feature store: set /upcampaign/datalib
-- Development of an uplift model: [/notebooks/learning.ipynb](./notebooks/learning.ipynb)
-- Application Uplift-Campaign: /upcampaign
+- Feature store: [/upcampaign/datalib]/upcampaign/datalib
+- Uplift modeling: [/notebooks/learning.ipynb](./notebooks/learning.ipynb)
+- Flow-based Application for an Uplift-Campaign: [/upcampaign]/upcampaign
 
 ## Application Uplift-Campaign
 
