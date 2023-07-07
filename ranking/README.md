@@ -1,7 +1,7 @@
 # Final project of Ranking&Matching module of Hard ML specialization
 
 ## Task
-Develop of a ranking microservice for a QA system based on the [Quora Question Pairs](https://paperswithcode.com/dataset/quora-question-pairs) dataset. The service should select the top 10 questions most relevant to a query (question).
+Developing a ranking microservice for a QA system based on the [Quora Question Pairs](https://paperswithcode.com/dataset/quora-question-pairs) dataset. The service should select the top 10 questions most relevant to a query (question).
 
 ## Solution
 ##### Project diagram: 
