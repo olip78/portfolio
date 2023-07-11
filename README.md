@@ -5,7 +5,7 @@
 2. [Ranking & matching](./ranking)
 3. [Uplift modelling](./uplift)
 4. [Dynamic pricing](./dynamic_pricing)
-5. ML Services: Deployment
+5. [ML Services: Deployment](./deployment)
 
 ##   
 [Additional practical / learning activities complementing professional experience](./data_science_portfolio.md)
