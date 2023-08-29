@@ -5,6 +5,10 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 ###### <i>Five practical two-weeks projects:</i> [code and documentation](./)
 <br>
 
+#### [ML Engineer Simulator (in progress)](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)<br><sub>August - November 2023, karpov.courses</sub>
+60+ practical problems of varying complexity: dynamic pricing, recommendation systems, time series forecasting, A/B testing, advanced SQL, deployment etc.<br>
+<br>
+
 #### Advanced Machine Learning Specialization<br><sub>January - May 2021, Higher School of Economics, Moscow</sub>
 
 [Introduction to deep learning](https://www.coursera.org/account/accomplishments/certificate/86HZSGMSV58F),
@@ -29,7 +33,6 @@ Machine learning, optimization and statistics for data science, practical data a
 
 #### Other activities<br><sub>sinse 2020</sub>
 <h6><i>Courses:</i></h6>
-ML Simulator (in progress), karpov.courses<br>
 Deep Generative Models, Moscow Institute of Physics and Technology<br>
 
 [Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
@@ -41,4 +44,4 @@ Deep Generative Models, Moscow Institute of Physics and Technology<br>
 Databases and SQL for Data Science with Python, IBM
 <h6><i>Reading:</i></h6>
 
-Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen (in progress); d2l.ai (some advanced chapters); lots of articles and blog posts
+Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen; d2l.ai (some advanced chapters); lots of articles and blog posts
