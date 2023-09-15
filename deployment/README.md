@@ -3,16 +3,21 @@
 The goal of the final project is to design a prototype deployment of a QA system.
 
 #### QA service specification:
-Training:
+
+##### Training:
+
 - Document (question) embedding
 - All documents (embeddings) are clustered, after that for each cluster an (e.g. FAISS) Index is calculated
 - A ranking model is trained
-Two step inference:
+ 
+##### Two step inference:
+
 - Query embedding 
 - The most relevant cluster is identified (e.g. as the nearest center)
 - A shot list of candidates is selected by applying a corresponding Index
 - The shot list of documents is ranked using the ranking model
-#### Main chalenges:
+  
+#### Main challenges:
 - Each of the Indexes may well occupy 80-90% of the server memory
 - A seamless update mechanism is needed
   

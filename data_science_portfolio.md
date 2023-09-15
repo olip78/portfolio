@@ -6,7 +6,7 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 <br>
 
 #### [ML Engineer Simulator (in progress)](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)<br><sub>August - November 2023, karpov.courses</sub>
-60+ practical problems of varying complexity: dynamic pricing, recommendation systems, time series forecasting, A/B testing, advanced SQL, deployment etc.<br>
+60+ practical problems of varying complexity: dynamic pricing, time series forecasting, NLP, recommendation systems, A/B testing, advanced SQL, MLOps, testing, programming culture etc.<br>
 <br>
 
 #### Advanced Machine Learning Specialization<br><sub>January - May 2021, Higher School of Economics, Moscow</sub>
@@ -28,7 +28,8 @@ Machine learning, optimization and statistics for data science, practical data a
 
 - Identification of a specific user by tracking logs of attended Web pages: [GitHub](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 - Customer churn prediction on blind data of a telecommunication company
-- New York taxi multiple forecasting
+- New York taxi multiple forecasting: [GitHub]()
+  ![](./img/two-tab-case.jpeg)
 <br>
 
 #### Other activities<br><sub>sinse 2020</sub>
