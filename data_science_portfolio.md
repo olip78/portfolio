@@ -1,4 +1,4 @@
-## Additional practical / learning activities complementing professional experience
+## Additional practical / self-study activities complementing the professional experience
 
 #### [Hard ML: intensive professional development for mid/senior level professionals](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub>November 2022 - May 2023, karpov.courses</sub>
 Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, deployment of ML services<br>
@@ -28,7 +28,7 @@ Machine learning, optimization and statistics for data science, practical data a
 
 - Identification of a specific user by tracking logs of attended Web pages: [GitHub](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 - Customer churn prediction on blind data of a telecommunication company
-- New York taxi multiple forecasting: [GitHub]()
+- New York taxi multiple forecasting: [GitHub](./old/yellow_new_york_taxi/)
   ![](./img/two-tab-case.jpeg)
 <br>
 
