@@ -1,0 +1,147 @@
+{
+    "format": "%Y-%m-%d %H:%M:%S",
+    "h0": "2021-01-01 00:00:00",
+    "zones_in_use": [
+        13,
+        24,
+        41,
+        43,
+        48,
+        50,
+        68,
+        70,
+        74,
+        75,
+        79,
+        87,
+        88,
+        90,
+        100,
+        107,
+        113,
+        114,
+        125,
+        132,
+        137,
+        138,
+        140,
+        141,
+        142,
+        143,
+        144,
+        148,
+        151,
+        158,
+        161,
+        162,
+        163,
+        164,
+        166,
+        170,
+        186,
+        209,
+        211,
+        229,
+        230,
+        231,
+        233,
+        234,
+        236,
+        237,
+        238,
+        239,
+        244,
+        246,
+        249,
+        261,
+        262,
+        263,
+        264
+    ],
+    "feature_engineering": {
+        "K": {
+            "harm": {
+                "week": 8,
+                "year": 0,
+                "day": 6
+            },
+            "D": [],
+            "d": 4,
+            "sum": [
+                12,
+                24,
+                168
+            ]
+        },
+        "not_to_normalize": [
+            "t",
+            "b",
+            "zone_id",
+            "y",
+            "dol",
+            "weekday",
+            "weekhours",
+            "hours"
+        ],
+        "features": [
+            "t",
+            "b",
+            "zone_id",
+            "y",
+            "duration",
+            "cost",
+            "passengers",
+            "distance",
+            "dol",
+            "weekday",
+            "weekhours",
+            "hours",
+            "tips",
+            "vendor"
+        ]
+    },
+    "prediction": {
+        "results_day": "results_day.csv",
+        "results_month": "results_month.csv"
+    },
+    "output": {
+        "single": {
+            "zone_id": 87
+        },
+        "description": "Illustrative dashboard for six-hour forecasting of demand on yellow taxi in the most lively New York areas. The app runs in real time, based on a-few-month-lag data and is deployed with help of Pergola platform.",
+        "UTC correction": 1,
+        "n_tabs": 2
+    },
+    "S3_BUCKET": "pergola-ny-taxi",
+    "S3": true,
+    "path_data": "data",
+    "path_row": "data/row",
+    "path_preprocessed": "data/preprocessed",
+    "path_features": "featurtes",
+    "path_models": "models",
+    "url_head": "https://d37ci6vzurychx.cloudfront.net/trip-data/",
+    "training": {
+        "alpha": 1,
+        "reg": "ridge",
+        "period": [
+            "2021-10-01 00:00:00",
+            "2022-05-01 00:00:00"
+        ],
+        "include_groups": [
+            "t",
+            "trend_id",
+            "harmonics_id",
+            "hours_plus_2",
+            "hours_plus_d",
+            "id_plus_d",
+            "id_plus_dol",
+            "hours_plus_dol",
+            "weekday_d",
+            "weekday_plus_2",
+            "hours_plus_d_squared",
+            "id_plus_d_squared"
+        ],
+        "T_forecast": 6,
+        "test_length": 31
+    }
+}

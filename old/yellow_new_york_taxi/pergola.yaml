@@ -1,0 +1,72 @@
+version: v1
+
+components:
+    
+- name: training      
+  docker:
+    build-context: .
+    file: training/Dockerfile
+        
+  env:
+  # variable from required config
+  - name: S3_KEY
+    config-ref: S3_KEY
+  # variable from required config
+  - name: S3_SECRET
+    config-ref: S3_SECRET   
+        
+  files:
+  # map file from required config
+  - path: /usr/src/app/config.json
+    config-ref: config.json
+        
+  scheduled: "0 12 22 * *"
+  
+  resources:
+      memory: 32Gi
+      cpu: "6"
+
+- name: prediction
+  docker:
+    build-context: .
+    file: prediction/Dockerfile
+        
+  env:
+  # variable from required config
+  - name: S3_KEY
+    config-ref: S3_KEY
+  # variable from required config
+  - name: S3_SECRET
+    config-ref: S3_SECRET
+  files:
+  # map file from required config
+  - path: /usr/src/app/config.json
+    config-ref: config.json
+        
+  scheduled: "0 * * * *"  
+
+  resources:
+      memory: 16Gi  
+        
+- name: output-app
+  docker:
+    build-context: .
+    file: output_app/Dockerfile
+        
+  env:
+  # variable from required config
+  - name: S3_KEY
+    config-ref: S3_KEY
+  # variable from required config
+  - name: S3_SECRET
+    config-ref: S3_SECRET
+  files:
+  # map file from required config
+  - path: /usr/src/app/config.json
+    config-ref: config.json
+        
+  ports:
+    - 8080
+
+  ingresses:
+    - host: app
