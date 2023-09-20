@@ -5,7 +5,7 @@
 
 ##### Legend: 
 
-Optimal prices are found automatically with help of some ML app. The problem is that most products are divided into "horizontal" and "vertical" subgroups. An example of a vertical subgroup is the line of lemonade 'A' bottles: 0.25, 0.33, 0.5 liters. An example of a horizontal line is lemonades 'A', 'B', 'C' in 0.33 bottles. Prices in a subgroup must meet certain business constraints, eg. all prices in a horizontal group should be equal anf for vertical lines the following constraint hat to be met:
+Optimal prices are found automatically with help of some ML app. The problem is that most products are divided into "horizontal" and "vertical" subgroups. An example of a vertical subgroup is the line of lemonade 'A' bottles: 0.25, 0.33, 0.5 liters. An example of a horizontal line is lemonades 'A', 'B', 'C' in 0.33 bottles. Prices in a subgroup must meet certain business constraints, eg. all prices in a horizontal group should be equal and for vertical lines the following constraint has to be met:
 
 $$p_1 / v_1 < p_1 / v_2 < ... < p_n / v_n,$$ 
 
