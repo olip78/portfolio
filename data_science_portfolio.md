@@ -6,7 +6,8 @@ Ranking & matching, dynamic pricing, advanced A/B testing, uplift modelling, dep
 <br>
 
 #### [ML Engineer Simulator (in progress)](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)<br><sub>August - November 2023, karpov.courses</sub>
-60+ practical problems of varying complexity: dynamic pricing, time series forecasting, NLP, recommendation systems, A/B testing, advanced SQL, MLOps, testing, programming culture etc.<br>
+60+ practical problems of varying complexity: dynamic pricing, time series forecasting, NLP, recommendation systems, A/B testing, advanced SQL, MLOps, testing, programming culture etc.
+###### <i>Some problems:</i> [code and documentation](./ml_simulator)
 <br>
 
 #### Advanced Machine Learning Specialization<br><sub>January - May 2021, Higher School of Economics, Moscow</sub>
@@ -45,4 +46,4 @@ Deep Generative Models, Moscow Institute of Physics and Technology<br>
 Databases and SQL for Data Science with Python, IBM
 <h6><i>Reading:</i></h6>
 
-Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman (1/2); ML Handbook + Lectures, Yandex; Designing Machine Learning Systems, Chip Huyen; d2l.ai (some advanced chapters); lots of articles and blog posts
+Probabilistic Machine Learning: an Introduction (+ Advanced Topics in progress), Kevin P. Murphy; Designing Machine Learning Systems, Chip Huyen; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman; ML Handbook + Lectures, Yandex; d2l.ai (some advanced chapters); lots of articles and blog posts

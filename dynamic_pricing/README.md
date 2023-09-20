@@ -1,7 +1,7 @@
 # Final project of Dynamic pricing module of Hard ML specialization
 
 ## Task
-Build a dynamic pricing service for 1,000 products aimed at profit maximisation. The service is tested on a sales simulator, that models 29 days sales / buying activity. 
+Build a dynamic pricing service for 1,000 products aimed at profit maximization. The service is tested on a sales simulator, that models 29 days sales / buying activity. 
 
 For a single SKU (product) the task can be formulated as the following optimization problem:
 
