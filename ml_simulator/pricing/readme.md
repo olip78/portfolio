@@ -22,6 +22,12 @@ We would like to maximize the total revenue (gmv):
 ```
 
 ```math
+<p style='text-align: right; '>
+\sum_i p_{ij} \cdot d_{ij} \to \max_{J},
+<\p>
+```
+
+```math
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
 ```
 
