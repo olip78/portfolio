@@ -14,7 +14,7 @@ For each item $i$ price elasticity is estimated in form of optimal price / deman
 
 We would like to maximize the total revenue (gmv):
 
-$\sum_i \hat{p}_{ij} \cdot d_{ij} \to \max_{J},$
+$\sum_i \p_{ij} \cdot d_{ij} \to \max_{J},$
 
 under constraint on the overall weighted margin:
 
@@ -26,11 +26,11 @@ $J$ - vector of elasticity indices for all items,
 
 $\mu_{ij}$ - item $i$ marginality:
 
-$\mu_{ij} = \dfrac{\hat{p}_{ij} - c_{i}}{\hat{p}_{ij}}$
+$\mu_{ij} = \dfrac{p_{ij} - c_{i}}{p_{ij}}$
 
 $w_{ij}$ - item $i$ penetration:
 
-$w_{ij} = \dfrac{\hat{p}_{ij} \cdot d_{ij}}{\sum_i \hat{p}_{ij} \cdot d_{ij}}$
+$w_{ij} = \dfrac{p_{ij} \cdot d_{ij}}{\sum_i p_{ij} \cdot d_{ij}}$
 
 m - minimal overall weighted margin.
 <br>
