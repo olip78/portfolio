@@ -21,11 +21,17 @@ We would like to maximize the total revenue (gmv):
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
 ```
 
+<p style='text-align: left; '>
 ```math
-<p style='text-align: right; '>
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
-<\p>
 ```
+</p>
+
+<p style='text-align: left; '>
+$\sum_i p_{ij} \cdot d_{ij} \to \max_{J},$
+</p>
+
+$\sum_i p_{ij} \cdot d_{ij} \to \max_{J},$
 
 ```math
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
