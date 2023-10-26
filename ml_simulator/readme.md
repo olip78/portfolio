@@ -6,13 +6,15 @@ ML engineer simulator is a sort of on-line problem book with a build-in grader. 
 Below are a few problems as examples:
 
 #### Senior level:
-##### [Dynamic pricing: optimization block](./pricing/)
-###### Integer programming, Matrix algebra
+[Dynamic pricing: optimization block](./pricing/)
+<sub>Integer programming, Matrix algebra</sub>
 #### Middle level:
-##### [Churn rate](./churn_rate) 
+[Churn rate](./churn_rate) 
 <sub>SQL, Linear models, Bootstrap</sub>
-##### [Boosting uncertainty](./model_uncertainty)
-###### SQL, Tree-based models, Time series
+
+[Boosting uncertainty](./model_uncertainty)
+<sub>SQL, Tree-based models, Time series</sub>
+
 ##### [Recsys live-streaming platform](./recsys)
 ###### Matrix factorisation, Implicit ALS, fast API
 ##### [Demand forecast](./demand_forecast)
