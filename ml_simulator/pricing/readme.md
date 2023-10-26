@@ -14,9 +14,25 @@ For each item $i$ price elasticity is estimated in form of optimal price / deman
 
 We would like to maximize the total revenue (gmv):
 
-$\begin{aligned}
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+
+'''math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+'''
+
+```math
+\begin{aligned}
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
-\end{aligned}$
+\end{aligned}
+```
+
+```math
+\sum_i p_{ij} \cdot d_{ij} \to \max_{J},
+```
+
+$$\sum_i p_{ij} \cdot d_{ij} \to \max_{J}$$
 
 under constraint on the overall weighted margin:
 
