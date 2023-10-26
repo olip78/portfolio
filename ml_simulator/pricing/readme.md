@@ -14,7 +14,7 @@ For each item $i$ price elasticity is estimated in form of optimal price / deman
 
 We would like to maximize the total revenue (gmv):
 
-$\sum_i \p_{ij} \cdot d_{ij} \to \max_{J},$
+$\sum_i p_{ij} \cdot d_{ij} \to \max_{J},$
 
 under constraint on the overall weighted margin:
 

@@ -9,8 +9,7 @@ Below are a few problems as examples:
 ##### [Dynamic pricing: optimization block](./pricing/)
 ###### Integer programming, Matrix algebra
 #### Middle level:
-##### [Churn rate](./churn_rate)
-###### SQL, Linear models, Bootstrap
+##### [Churn rate](./churn_rate) <sub>(SQL, Linear models, Bootstrap)</sub>
 ##### [Boosting uncertainty](./model_uncertainty)
 ###### SQL, Tree-based models, Time series
 ##### [Recsys live-streaming platform](./recsys)
