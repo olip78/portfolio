@@ -4,7 +4,7 @@
 <br>
 
 ##### Legend:
-For each item $i$ price elasticity is estimated in form of optimal price / demand pairs: $\{p^*_{ij}, d_{ij}\}$:
+For each item $i$ price elasticity is estimated in form of optimal price / demand pairs: $\{p_{ij}, d_{ij}\}$:
 
 <img src="../img/elasticity.png"  width="60%" height="60%">
 <br>
@@ -15,7 +15,7 @@ For each item $i$ price elasticity is estimated in form of optimal price / deman
 We would like to maximize the total revenue (gmv):
 
 $\begin{aligned}
-\sum_i p^*_{ij} \cdot d_{ij} \to \max_{J},
+\sum_i p_{ij} \cdot d_{ij} \to \max_{J},
 \end{aligned}$
 
 under constraint on the overall weighted margin:
@@ -31,7 +31,7 @@ $J$ - vector of elasticity indices for all items,
 $\mu_{ij}$ - item $i$ marginality:
 
 $\begin{aligned}
-\mu_{ij} = \dfrac{p^*_{ij} - c_{i}}{p^*_{ij}}
+\mu_{ij} = \dfrac{p_{ij} - c_{i}}{p_{ij}}
 \end{aligned}$
 
 $w_{ij}$ - item $i$ penetration:
