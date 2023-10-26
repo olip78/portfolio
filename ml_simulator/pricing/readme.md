@@ -14,7 +14,7 @@ For each item $i$ price elasticity is estimated in form of optimal price / deman
 
 We would like to maximize the total revenue (gmv):
 
-$\sum_i p^\*_{ij} \cdot d_{ij} \to \max_{J},$
+$\sum_i \hat{p}_{ij} \cdot d_{ij} \to \max_{J},$
 
 under constraint on the overall weighted margin:
 
@@ -26,11 +26,11 @@ $J$ - vector of elasticity indices for all items,
 
 $\mu_{ij}$ - item $i$ marginality:
 
-$\mu_{ij} = \dfrac{p_{ij} - c_{i}}{p_{ij}}$
+$\mu_{ij} = \dfrac{\hat{p}_{ij} - c_{i}}{\hat{p}_{ij}}$
 
 $w_{ij}$ - item $i$ penetration:
 
-$w_{ij} = \dfrac{p_{ij} \cdot d_{ij}}{\sum_i p_{ij} \cdot d_{ij}}$
+$w_{ij} = \dfrac{\hat{p}_{ij} \cdot d_{ij}}{\sum_i \hat{p}_{ij} \cdot d_{ij}}$
 
 m - minimal overall weighted margin.
 <br>
@@ -48,9 +48,9 @@ Optimal prices are found using some ML application. The problem is that most pro
 
 An example of a vertical subgroup is a line of lemonade 'A' bottles 0.25, 0.33, 0.5 liters. An example of a horizontal subgroup is lemonades 'A', 'B', 'C' in 0.33 bottles. A business condition can be the the equality of prices within a horizontal group and strict monotonicity of specific prices within a vertical group:
 
-$p_1 / v_1 < p_1 / v_2 < ... < p_n / v_n,$
+$\hat{p}_1 / v_1 < \hat{p}_1 / v_2 < ... < \hat{p}_n / v_n,$
 
-where $p_i$ are prices, $v_i$ - descending bottle volumes.
+where $\hat{p}_i$ are prices, $v_i$ - descending bottle volumes.
 
 <img src="../img/cocacola.png"  width="50%" height="50%">
 
