@@ -17,9 +17,9 @@ We would like to maximize the total revenue (gmv):
 
 
 ```math
-\begin{align*} 
+\begin{flalign}
 \sum_i p_{ij} \cdot d_{ij} \to \max_{J},
-\end{align*}
+\end{flalign}
 ```
 
 ```math
