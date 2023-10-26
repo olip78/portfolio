@@ -32,7 +32,7 @@ $w_{ij}$ - item $i$ penetration:
 
 $w_{ij} = \dfrac{p_{ij} \cdot d_{ij}}{\sum_i p_{ij} \cdot d_{ij}}$
 
-m - minimal overall weighted margin.
+$m$ - minimal overall weighted margin.
 <br>
 ##### Solution:
 
