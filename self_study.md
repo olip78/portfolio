@@ -1,11 +1,11 @@
 ## Additional practical / self-study activities complementing the professional experience
 #### [Hard ML: intensive professional development for mid / senior level specialists](https://lab.karpov.courses/certificate/87e1563c-832c-41dd-8a29-216fa82660cc/en/)<br><sub>November 2022 - May 2023, karpov.courses</sub>
 Ranking & matching, Dynamic pricing, advanced A / B testing, Uplift modelling, Deployment of ML services<br>
-###### <i>Five practical two-weeks projects:</i> [code and documentation](./)
+###### <i>Five practical two-weeks projects:</i> [code and documentation](./hard_ml)
 <br>
 
 #### [ML Engineer Simulator](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)<br><sub>August - October 2023, karpov.courses</sub>
-60+ practical problems of varying complexity: Dynamic pricing, Time series forecasting, NLP, Recommendation systems, A / B testing, advanced SQL, MLOps, Testing, Programming culture etc.
+70- practical problems of varying complexity: Dynamic pricing, Time series forecasting, NLP, Recommendation systems, A / B testing, advanced SQL, MLOps, Metrics, Testing etc.
 ###### <i>Some problems:</i> [code and documentation](./ml_simulator)
 <br>
 
@@ -28,14 +28,15 @@ Machine learning, Optimization and statistics for data science, Practical data a
 
 - Identification of a specific user by tracking logs of attended Web pages: [github](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 - Customer churn prediction on blind data of a telecommunication company
-- New York taxi multiple forecasting: [github](./old/yellow_new_york_taxi/)
-  ![](./img/two-tab-case.jpeg)
+- New York taxi multiple forecasting: [github](./other/old/yellow_new_york_taxi/)
+
+<img src="./img/two-tab-case.jpeg"  width="60%" height="60%">
 <br>
 
 #### Other activities<br><sub>sinse 2020</sub>
 <h6><i>Courses:</i></h6>
 
-Deep Generative Models [(github)](./courses/DGM), Moscow Institute of Physics and Technology<br>
+Deep Generative Models [(github)](./other/DGM), Moscow Institute of Physics and Technology<br>
 [Deep Learning Specialization](https://coursera.org/share/7202dee1718b83ba51cf5025d77db52a), Deep Learning.AI<br>
 [NLP with Attention Models](https://coursera.org/share/8774cb15c597476489ff85dbffb5733f), [NLP with Sequence Models](https://coursera.org/share/c7fa4548b6d44097fe0519c4e44c78f0), Deep Learning.AI<br>
 [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 

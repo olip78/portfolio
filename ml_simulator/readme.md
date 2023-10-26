@@ -1,7 +1,29 @@
 # ML Engineer Simulator: some problems
-ML engineer simulator is a sort on-line problem book with a build-in grader. The simulator contains 60+ practical tasks of varying complexity and covers diverse topics such as: dynamic pricing, time series forecasting, NLP, recommendation systems, A/B testing, advanced SQL, MLOps, testing, programming culture etc.
+ML engineer simulator is a sort of on-line problem book with a build-in grader. It contains 70- practical tasks of varying complexity with an emphasis on the engineering component and covers such topics as: time series forecasting, NLP, dynamic pricing, recommendation systems, A/B testing, advanced SQL, MLOps, testing, software development culture etc.
 
-Below there are a couple of most interesting problems:
+###### [List of all problems](https://simulator-ml.notion.site/dfcd22d2dee24176b2998c9231f79f10?v=7a44c363484b463c89c08f60ac8b351f)
 
-#### [Dynamic pricing: optimization block ***](./pricing/)
-##### Integer programming, matrix algebra
+Below are a few problems as examples:
+
+#### Senior level:
+##### [Dynamic pricing: optimization block](./pricing/)
+###### Integer programming, Matrix algebra
+#### Middle level:
+##### [Churn rate](./churn_rate)
+###### SQL, Linear models, Bootstrap
+##### [Boosting uncertainty](./model_uncertainty)
+###### SQL, Tree-based models, Time series
+##### [Recsys live-streaming platform](./recsys)
+###### Matrix factorisation, Implicit ALS, fast API
+##### [Demand forecast](./demand_forecast)
+###### Linear models, Bootstrap, MLOps, fast API
+##### [GPT-2 app](./nlp/gpt_2)
+###### NLP, Transformers
+#### Junior level:
+##### [Error analysis](./error_analysis)
+###### Statistics, Programming
+##### [Sentiment analysis + Negation testing](./nlp/sentiment)
+###### BERT, Checklist
+#### Intern level:
+##### [SQL query from decision tree](./tree_sql)
+###### SQL, Programming
