@@ -1,6 +1,6 @@
 ## Decision tree to SQL request
 
-SQL function, that convert a sklearn decision tree to a SQL code:
+Function, that convert a sklearn decision tree to a SQL code:
 
 ##### Example:
 ```

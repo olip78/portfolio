@@ -28,9 +28,7 @@ Machine learning, Optimization and statistics for data science, Practical data a
 
 - Identification of a specific user by tracking logs of attended Web pages: [github](https://github.com/olip78/Catch-Me-If-You-Can.git); 10th place out of about 4 700 teams [on Kaggle](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/overview)
 - Customer churn prediction on blind data of a telecommunication company
-- New York taxi multiple forecasting: [github](./other/old/yellow_new_york_taxi/)
-
-<img src="./img/two-tab-case.jpeg"  width="60%" height="60%">
+- New York taxi multiple forecasting
 <br>
 
 #### Other activities<br><sub>sinse 2020</sub>
@@ -42,8 +40,10 @@ Deep Generative Models [(github)](./other/DGM), Moscow Institute of Physics and 
 [TensorFlow: Advanced Techniques Specialization](https://coursera.org/share/a717322472a9b6eb8326412c7bd49eb4), Deep Learning.AI<br> 
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
 [Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
+[Docker](https://lab.karpov.courses/certificate/7340e529-1716-404d-b734-9d950b5b8407/en/), karpov.courses<br>
+The Missing Semester of Your CS Education, MIT<br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
 Databases and SQL for Data Science with Python, IBM
 <h6><i>Reading:</i></h6>
 
-Probabilistic Machine Learning: an Introduction (+ Advanced Topics in progress), Kevin P. Murphy; Designing Machine Learning Systems, Chip Huyen; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman; ML Handbook + Lectures, Yandex; d2l.ai (some advanced chapters); lots of articles and blog posts
+Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; Designing Machine Learning Systems, Chip Huyen; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman; ML Handbook + Lectures, Yandex; d2l.ai (some advanced chapters); Articles and blog posts

@@ -34,4 +34,4 @@ Below are a few problems as examples:
 
 <br>
 
-[<sub>List of all problems</sub>](https://simulator-ml.notion.site/dfcd22d2dee24176b2998c9231f79f10?v=7a44c363484b463c89c08f60ac8b351f)
+[<sub>List of all problems</sub>](https://simulator-ml.notion.site/dfcd22d2dee24176b2998c9231f79f10?v=7a44c363484b463c89c08f60ac8b351f)<br>[<sub>Certificate</sub>](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)
