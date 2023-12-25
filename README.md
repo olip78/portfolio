@@ -1,6 +1,6 @@
 # Data science portfolio
 ## Pet-projects
-- [Yellow New York Taxi Demand multiple Forecasting with spatio-temporal Transformers](../ynyt)
+- [Yellow New York Taxi Demand multiple Forecasting with spatio-temporal Transformers](https://github.com/olip78/ynyt)
   <br><sub>dashboard: [link](http://158.160.109.15:8080) <sub>
 ## Hard ML advanced training: practical projects
 - [Advanced A/B testing](./hard_ml/ab)
