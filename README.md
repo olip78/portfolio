@@ -2,6 +2,8 @@
 ## Pet-projects
 - [Yellow New York Taxi Demand multiple Forecasting with spatio-temporal Transformers](https://github.com/olip78/ynyt)
   <br><sub>dashboard: [link](http://158.160.109.15:8080) <sub>
+- [Video Summarizer](https://github.com/olip78/ynyt)
+  <br><sub>on-line app: [link](https://github.com/olip78/video_summarizer) <sub>  
 ## Hard ML advanced training: practical projects
 - [Advanced A/B testing](./hard_ml/ab)
 - [Ranking & matching](./hard_ml/ranking)
