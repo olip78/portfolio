@@ -19,7 +19,7 @@ Below are a few problems as examples:
 [Demand forecast](./demand_forecast)
 <sub><br>Linear models, Bootstrap, MLOps, fast API</sub>
 
-[GPT-2 app](./nlp/gpt_2)
+[GPT-2 app from scratch](./nlp/gpt_2)
 <sub><br>NLP, Transformers
 
 #### Junior level:
