@@ -1,8 +1,12 @@
 # Data science portfolio
 ## Pet-projects
-- [Yellow New York Taxi Demand multiple Forecasting with spatio-temporal Transformers](https://github.com/olip78/ynyt)
+- [End-to-end ML app: Yellow New York Taxi Demand multiple Forecasting](https://github.com/olip78/ynyt)
+  <br><sub>Fourier harmonics, Transformers, FastAPI, MLflow, Docker, Swarm, Gitlab CI/CD<sub>
   <br><sub>dashboard: [link](http://158.160.109.15:8080) <sub>
+- [Enefit - Predict Energy Behavior of Prosumers Kaggle Chalenge](https://github.com/olip78/Enefit)
+  <br><sub>Transformers<sub>
 - [Video Summarizer](https://github.com/olip78/video_summarizer)
+  <br><sub>Open AI API<sub>
   <br><sub>on-line app: [link](http://159.223.16.238:8501) <sub>  
 ## Hard ML advanced training: practical projects
 - [Advanced A/B testing](./hard_ml/ab)

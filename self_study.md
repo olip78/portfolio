@@ -41,9 +41,10 @@ Deep Generative Models [(github)](./other/DGM), Moscow Institute of Physics and 
 [Practical Data Science on the AWS Cloud Specialization,](https://coursera.org/share/1a5642236ee215b97706042775eacb7e) Deep Learning.AI, AWS<br>
 [Big Data Processing](https://coursera.org/share/cb969de28edcb92d36eaf86d2df70a30), [Machine Learning on Big Data](https://coursera.org/share/98c78924e2a0a6e34fb1f6aa79607bf9), Higher School of Economics, Moscow<br>
 [Docker](https://lab.karpov.courses/certificate/7340e529-1716-404d-b734-9d950b5b8407/en/), karpov.courses<br>
+GIT, yandex.practicum<br>
 The Missing Semester of Your CS Education, MIT<br>
 [Intermediate Python](https://confirm.udacity.com/CTA9GKXP), Udacity<br>
 Databases and SQL for Data Science with Python, IBM
 <h6><i>Reading:</i></h6>
 
-Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; Designing Machine Learning Systems, Chip Huyen; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman; ML Handbook + Lectures, Yandex; d2l.ai (some advanced chapters); Articles and blog posts
+Probabilistic Machine Learning: an Introduction, Kevin P. Murphy; Deep Learning, Chris Bishop (in progress); Designing Machine Learning Systems, Chip Huyen; The Elements of Statistical Learning, Hastie, Tibshirani, Friedman; ML Handbook + Lectures, Yandex; d2l.ai (some advanced chapters); Articles and blog posts
