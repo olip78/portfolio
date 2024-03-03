@@ -13,8 +13,9 @@
 - [Advanced A/B testing](./hard_ml/ab)
   <br><sub>CUPED, Post stratification</sub>
 - [Ranking & matching](./hard_ml/ranking)
+  <br><sub>KNRM, FAISS, Flask</sub>
 - [Uplift modelling](./hard_ml/uplift)
-  <br><sub>Feature store, Casual ML</sub>
+  <br><sub>Feature store, Casual ML, Flow-based app</sub>
 - [Dynamic pricing](./hard_ml/dynamic_pricing)
   <br><sub>Bayesian optimization, Contextual bandits</sub>
 - [ML Services: Deployment](/hard_ml/deployment)
