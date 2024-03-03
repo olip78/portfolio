@@ -9,14 +9,19 @@
   <br><sub>Open AI API, Docker, Gitlab CI/CD</sub>
   <br><sub>on-line app: [link](http://159.223.16.238:8501) </sub>  
 ## Hard ML advanced training: practical projects
+5 two-week (+ refactoring afterwards) hands-on projects. Each assignment was a textual statement of the problem with accompanying data.
 - [Advanced A/B testing](./hard_ml/ab)
+  <br><sub>CUPED, Post stratification</sub>
 - [Ranking & matching](./hard_ml/ranking)
 - [Uplift modelling](./hard_ml/uplift)
+  <br><sub>Feature store, Casual ML</sub>
 - [Dynamic pricing](./hard_ml/dynamic_pricing)
+  <br><sub>Bayesian optimization, Contextual bandits</sub>
 - [ML Services: Deployment](/hard_ml/deployment)
 
 ## ML engineer simulator: some problems
 - [Dynamic pricing: optimization block](./ml_simulator/pricing/)
+  <br><sub>Linear programming</sub>
 - [See more ...](./ml_simulator/)
   <br><sub>SQL, RecSys, BERT, NLP, GPT2, Fast API, MLOps, etc.</sub>
 
