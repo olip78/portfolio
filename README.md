@@ -5,6 +5,8 @@
   <br><sub>dashboard: [link](http://158.160.109.15:8080) </sub>
 - [Enefit - Predict Energy Behavior of Prosumers Kaggle Chalenge with Spatio-temporal Transformers](https://github.com/olip78/Enefit)
   <br><sub>Transformers, PyTorch</sub>
+- [VAE for IEEE-CIS Fraud Detection Kaggle Chalenge](https://github.com/olip78/DGM-for-anomaly-detection)
+  <br><sub>VAE, PyTorch</sub>
 - [Video Summarizer](https://github.com/olip78/video_summarizer)
   <br><sub>Open AI API, Docker, Gitlab CI/CD</sub>
   <br><sub>on-line app: [link](http://159.223.16.238:8501) </sub>  
