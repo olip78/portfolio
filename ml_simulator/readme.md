@@ -14,7 +14,7 @@ Below are a few problems as examples:
 <sub><br>SQL, Tree-based models, Time series</sub>
 
 [Demand forecast](./demand_forecast)
-<sub><br>Linear models, Bootstrap, MLOps, fast API</sub>
+<sub><br>Linear models, Bootstrap, ClearML, MLOps, fast API</sub>
 
 [GPT-2 app from scratch](./nlp/gpt_2)
 <sub><br>NLP, Transformers

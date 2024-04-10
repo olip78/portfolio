@@ -1,10 +1,11 @@
 # Data science portfolio
 ## Pet-projects
+Projects completed between November 2023 and March 2024 to gain practical experience in specific topics.
 - [End-to-end ML app: Yellow New York Taxi Demand multiple Forecasting](https://github.com/olip78/ynyt)
-  <br><sub>Fourier harmonics, Transformers, PyTorch, FastAPI, MLflow, Docker, Swarm, Gitlab CI/CD</sub>
+  <br><sub>Fourier harmonics, Transformers, PyTorch, FastAPI, MLflow, Docker, Swarm, Gitlab CI/CD, cronjob</sub>
   <br><sub>dashboard: [link](http://158.160.109.15:8080) </sub>
 - [Enefit - Predict Energy Behavior of Prosumers Kaggle Chalenge with Spatio-temporal Transformers](https://github.com/olip78/Enefit)
-  <br><sub>Transformers, PyTorch</sub>
+  <br><sub>Multivariate time series, Transformers, PyTorch</sub>
 - [VAE for IEEE-CIS Fraud Detection Kaggle Chalenge](https://github.com/olip78/DGM-for-anomaly-detection)
   <br><sub>VAE, PyTorch</sub>
 - [Video Summarizer](https://github.com/olip78/video_summarizer)
@@ -26,7 +27,7 @@
 - [Dynamic pricing: optimization block](./ml_simulator/pricing/)
   <br><sub>Linear programming</sub>
 - [See more ...](./ml_simulator/)
-  <br><sub>SQL, RecSys, BERT, NLP, GPT2, Fast API, MLOps, etc.</sub>
+  <br><sub>SQL, RecSys, BERT, NLP, GPT2, Fast API, ClearML, MLOps, etc.</sub>
 
 ##   
 [Additional practical / learning activities complementing professional experience](./self_study.md)
