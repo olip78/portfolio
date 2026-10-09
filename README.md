@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## Current project
+## Current personal projects
 
 - [Forecasting and Optimization for Industrial Energy Management](https://github.com/olip78/industrial-energy-optimization)
   <br><sub>End-to-end decision system for an industrial consumer with flexible load, PV generation, battery storage, and access to the German day-ahead and intraday markets.</sub>
@@ -11,12 +11,12 @@
 
 High-level descriptions of commercial projects whose source code and client data are proprietary.
 
-- [LLM-assisted matching and classification for multilingual laboratory catalogues](./case_studies/laboratory-catalogue-matching.md)
-  <br><sub>Structured catalogue matching, LLM-based enrichment, graph-constrained candidate selection, ML reranking, and neural classification</sub>
 - [Browser fingerprinting and identity resolution](./case_studies/browser-fingerprinting.md)
   <br><sub>End-to-end identity-resolution system combining representation learning, candidate retrieval, pairwise matching, calibrated decisioning, and an evolving Identity Graph</sub>
+- [LLM-assisted matching and classification for multilingual laboratory catalogues](./case_studies/laboratory-catalogue-matching.md)
+  <br><sub>Structured catalogue matching, LLM-based enrichment, graph-constrained candidate selection, ML reranking, and neural classification</sub>
 
-## Selected personal projects (November 2023 - March 2024)
+## Selected personal projects (2023-2024)
 
 Projects developed to gain practical experience in selected forecasting, deep-learning, and MLOps topics.
 
