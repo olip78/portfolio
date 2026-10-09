@@ -7,6 +7,15 @@
   <br><sub>Point and probabilistic forecasting, deterministic and stochastic MILP, model-predictive control, out-of-sample economic replay, MLflow; deployment work in progress.</sub>
   <br><sub>[Technical report](https://github.com/olip78/industrial-energy-optimization/blob/main/docs/project_report.pdf)</sub>
 
+## Selected commercial ML case studies
+
+High-level descriptions of commercial projects whose source code and client data are proprietary.
+
+- [LLM-assisted matching and classification for multilingual laboratory catalogues](./case_studies/laboratory-catalogue-matching.md)
+  <br><sub>Structured catalogue matching, LLM-based enrichment, graph-constrained candidate selection, ML reranking, and neural classification</sub>
+- [Browser fingerprinting and identity resolution](./case_studies/browser-fingerprinting.md)
+  <br><sub>End-to-end identity-resolution system combining representation learning, candidate retrieval, pairwise matching, calibrated decisioning, and an evolving Identity Graph</sub>
+
 ## Selected personal projects (November 2023 - March 2024)
 
 Projects developed to gain practical experience in selected forecasting, deep-learning, and MLOps topics.
