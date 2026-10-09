@@ -18,9 +18,9 @@ Projects developed to gain practical experience in selected forecasting, deep-le
 - [VAE for anomaly detection in the IEEE-CIS Fraud Detection challenge](https://github.com/olip78/DGM-for-anomaly-detection)
   <br><sub>Variational autoencoder, anomaly detection, PyTorch</sub>
 
-## Advanced applied-ML training projects
+## Advanced applied-ML training projects (2022-2023)
 
-Five two-week hands-on projects completed as part of advanced ML training and subsequently refactored.
+Five two-week hands-on projects completed between November 2022 and May 2023 as part of advanced ML training and subsequently refactored.
 
 - [Advanced A/B testing](./hard_ml/ab)
   <br><sub>CUPED, post-stratification</sub>
@@ -33,8 +33,9 @@ Five two-week hands-on projects completed as part of advanced ML training and su
 - [ML service deployment design](./hard_ml/deployment)
   <br><sub>Scalable search and ranking architecture, model and index update strategy</sub>
 
-## Additional practical work
+## Selected ML engineering projects (2023)
 
-- [ML engineering exercises](./ml_simulator/)
-  <br><sub>Forecasting, optimization, SQL, recommender systems, NLP, FastAPI, ClearML, testing, and MLOps</sub>
-- [Additional learning activities complementing professional experience](./self_study.md)
+- [Dynamic-pricing optimization](./ml_simulator/pricing/)
+  <br><sub>Mixed-integer linear programming for revenue and margin optimization, including business constraints on product-group prices</sub>
+- [Demand-forecasting service](./ml_simulator/demand_forecast/)
+  <br><sub>Quantile regression, bootstrap uncertainty estimation, ClearML training and inference pipelines, and FastAPI</sub>
