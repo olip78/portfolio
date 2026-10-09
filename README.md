@@ -42,7 +42,7 @@ Five two-week hands-on projects completed between November 2022 and May 2023 as 
 - [ML service deployment design](./hard_ml/deployment)
   <br><sub>Scalable search and ranking architecture, model and index update strategy</sub>
 
-## Selected ML engineering projects (2023)
+## Selected ML engineering training projects (2023)
 
 - [Dynamic-pricing optimization](./ml_simulator/pricing/)
   <br><sub>Mixed-integer linear programming for revenue and margin optimization, including business constraints on product-group prices</sub>
