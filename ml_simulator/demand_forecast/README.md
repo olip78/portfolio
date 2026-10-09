@@ -1,11 +1,13 @@
-#  ML service for Demand forecasting
+# Demand Forecasting ML Service
 
-#### Content:
+A training project covering the main components of a short-term multivariate demand-forecasting service.
 
-- ETL, feature engineering (attributes-aggregation)
-- 360 quantile linear regressions
-- Week missed profit estimation (confidence interval, bootstrap)
-- ClearML based pipelines: training, inference
-<img src="../../img/training.png"  width="75%" height="75%" title="Train pipeline">
+## Components
 
-- FastAPI service
+- ETL and feature engineering based on aggregated attributes;
+- 360 quantile linear-regression models;
+- weekly missed-profit estimation with bootstrap confidence intervals;
+- ClearML pipelines for training and inference;
+- FastAPI inference service.
+
+![Training pipeline](../../img/training.png)

@@ -1,24 +1,37 @@
-# Final project of ML-service deployment scenarios module of Hard ML specialization
+# ML Service Deployment Design
 
-The goal of the final project is to design a prototype deployment of a QA system.
+*Final training project for the ML Service Deployment module of the Hard ML specialisation.*
 
-#### QA service specification:
+## Task
 
-##### Training:
+Design a deployment architecture for a question-answering retrieval and ranking service.
 
-- Document (question) embedding
-- All documents (embeddings) are clustered, after that for each cluster an (e.g. FAISS) Index is calculated
-- A ranking model is trained
- 
-##### Two step inference:
+## Training flow
 
-- Query embedding 
-- The most relevant cluster is identified (e.g. as the nearest center)
-- A shot list of candidates is selected by applying a corresponding Index
-- The shot list of documents is ranked using the ranking model
-  
-#### Main challenges:
-- Each of the Indexes may well occupy 80-90% of the server memory
-- A seamless update mechanism is needed
-  
-#### Solution: [drawio diagram](https://drive.google.com/file/d/1grCdutLZlpFe419omJgPKvxdsVqGw0ZH/view?usp=sharing)
+- Generate document embeddings.
+- Cluster the documents and build a vector index, such as FAISS, for each cluster.
+- Train a ranking model.
+
+## Two-stage inference
+
+- Generate an embedding for the incoming query.
+- Identify the most relevant document cluster.
+- Retrieve a shortlist of candidates from the corresponding vector index.
+- Rerank the shortlist with the ranking model.
+
+```mermaid
+flowchart LR
+    A[Query] --> B[Query embedding]
+    B --> C[Nearest cluster]
+    C --> D[Vector index]
+    D --> E[Candidate shortlist]
+    E --> F[Ranking model]
+    F --> G[Ranked results]
+```
+
+## Main design challenges
+
+- Individual vector indexes may consume 80-90% of a server's memory.
+- Model and index updates must be applied without interrupting the service.
+
+The design therefore focuses on versioned model and index artifacts, controlled loading and unloading of large indexes, and a safe update strategy for the serving layer.

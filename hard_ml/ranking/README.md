@@ -1,21 +1,23 @@
-# Final project of Ranking&Matching module of Hard ML specialization
+# Neural Ranking and Matching
+
+*Final training project for the Ranking and Matching module of the Hard ML specialisation.*
 
 ## Task
-Developing a ranking microservice for a QA system based on the [Quora Question Pairs](https://paperswithcode.com/dataset/quora-question-pairs) dataset. The service should select the top 10 questions most relevant to a query (question).
+
+Develop a ranking microservice for a question-answering system based on the Quora Question Pairs dataset. Given a query, the service retrieves and ranks the ten most relevant questions.
 
 ## Solution
-##### Project diagram: 
-![](./img/quara.jpg)
 
+![Project diagram](./img/quara.jpg)
 
-[KNRM (Kernel Neural Ranking Model)](http://www.cs.cmu.edu/~zhuyund/papers/end-end-neural.pdf) was used as a ranking model, it was implemented from scratch in one of the homework assignments.
-##### KNRM diagram: 
-![](./img/image_YXBoS8M.png)
+A [Kernel-based Neural Ranking Model (KNRM)](http://www.cs.cmu.edu/~zhuyund/papers/end-end-neural.pdf) is used for the final ranking stage. The model was implemented from scratch as part of the training programme.
 
-## Content
-- [ranking/lib/ranking.py](./lib/ranking.py) - model implementation 
-- [/lib/KNRM.py](./lib/KNRM.py) - KNRM algorithm
-- [/lib/index.py](./lib/index.py) - FAISS kNN
-- [model_training.ipynb](./notebooks/model_training.ipynb) - model training & testing
-- [solution.py](./solution.py) - flask service 
+![KNRM diagram](./img/image_YXBoS8M.png)
 
+## Contents
+
+- [`lib/ranking.py`](./lib/ranking.py): ranking pipeline.
+- [`lib/KNRM.py`](./lib/KNRM.py): KNRM implementation.
+- [`lib/index.py`](./lib/index.py): FAISS-based candidate retrieval.
+- [`notebooks/model_training.ipynb`](./notebooks/model_training.ipynb): model training and evaluation.
+- [`solution.py`](./solution.py): Flask service.

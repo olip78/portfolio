@@ -8,16 +8,13 @@ import numpy as np
 
 
 class CocaCola(TransformerMixin):
-    """Post-processing of the given optimal prices according to 
-    the ranked volume constraints: p(v1) < p(v2) < ... < p(vn) if v1 < v2 < ... < vn 
-    for products in one vertical line and 
-    p1 < p2 < ... < pn for products in one horizontal line. 
-    The class finds the minimum vertical and horizontal adjustments
-    so that the resulting values satisfy these conditions.
+    """Post-process optimal prices under ranked-volume constraints.
+
+    The class finds the smallest vertical and horizontal adjustments that
+    satisfy the specified product-group constraints.
     """
     def _v_adj(self, prices: pd.Series, rank: pd.Series) -> np.array:
-        """vertical adjustment
-        """
+        """Calculate vertical price adjustments."""
         length = prices.shape[0]
 
         if length > 1:
@@ -68,8 +65,7 @@ class CocaCola(TransformerMixin):
         return res
 
     def fix_vlines(self, df: pd.DataFrame) -> pd.DataFrame:
-        """applys vertical adjustment to all vlines groups
-        """
+        """Apply vertical adjustments to all vertical groups."""
         _df = df.copy()
         _df.vline = _df.vline.replace('', np.nan)
         for _, g in _df.groupby('vline'):
@@ -79,8 +75,7 @@ class CocaCola(TransformerMixin):
         return _df
 
     def _h_adj(self, prices):
-        """horisontal adjustment
-        """
+        """Calculate horizontal price adjustments."""
         length = prices.shape[0]
 
         if length > 1:
@@ -106,8 +101,7 @@ class CocaCola(TransformerMixin):
         return res
 
     def fix_hlines(self, df: pd.DataFrame) -> pd.DataFrame:
-        """applys horisontal adjustment to all vlines groups
-        """
+        """Apply horizontal adjustments to all horizontal groups."""
         _df = df.copy()
         _df.hline = _df.hline.replace('', np.nan)
         for _, g in _df.groupby('hline'):
@@ -117,13 +111,11 @@ class CocaCola(TransformerMixin):
         return _df
 
     def fit(self, df: pd.DataFrame, y: pd.Series = None) -> CocaCola:
-        """dummy fit
-        """
+        """Return the stateless transformer."""
         return self
 
     def transform(self, df: pd.DataFrame, y: pd.Series = None) -> pd.DataFrame:
-        """applys vertical and hirisontal adjustments 
-        """
+        """Apply vertical and horizontal price adjustments."""
         _df = self.fix_vlines(df)
         _df = self.fix_hlines(_df)
         return _df
