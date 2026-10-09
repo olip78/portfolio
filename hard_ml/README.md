@@ -1,8 +1,7 @@
 # Hard ML advanced training: practical projects
-5 two-week (+ refactoring afterwards) hands-on projects. Each assignment was a textual statement of the problem with accompanying data. Each project was done after the completion of the ~3-week training module.
+Selected projects from five two-week hands-on assignments, subsequently refactored. Each assignment provided a problem statement and accompanying data and followed an approximately three-week training module.
 
 - [Advanced A/B testing](./ab)
 - [Ranking & matching](./ranking)
 - [Uplift modelling](./uplift)
 - [Dynamic pricing](./dynamic_pricing)
-- [ML Services: Deployment](./deployment)

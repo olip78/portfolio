@@ -29,7 +29,7 @@ Projects developed to gain practical experience in selected forecasting, deep-le
 
 ## Advanced applied-ML training projects (2022-2023)
 
-Five two-week hands-on projects completed between November 2022 and May 2023 as part of advanced ML training and subsequently refactored.
+Selected projects from five two-week assignments completed between November 2022 and May 2023 as part of advanced ML training and subsequently refactored.
 
 - [Advanced A/B testing](./hard_ml/ab)
   <br><sub>CUPED, post-stratification</sub>
@@ -39,8 +39,6 @@ Five two-week hands-on projects completed between November 2022 and May 2023 as 
   <br><sub>Feature store, CausalML, flow-based application</sub>
 - [Dynamic pricing](./hard_ml/dynamic_pricing)
   <br><sub>Bayesian optimization, contextual bandits</sub>
-- [ML service deployment design](./hard_ml/deployment)
-  <br><sub>Scalable search and ranking architecture, model and index update strategy</sub>
 
 ## Selected ML engineering training projects (2023)
 
