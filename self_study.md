@@ -20,6 +20,14 @@ More than 70 practical assignments covering demand forecasting, dynamic pricing,
 - [Certificate](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)
 - [Selected implementations](./ml_simulator)
 
+## Deep Generative Models
+
+**Moscow Institute of Physics and Technology | 2022-2023**
+
+Advanced theoretical and practical coursework covering autoregressive models, variational autoencoders, normalizing flows, Wasserstein GANs, discrete latent-variable models, and evaluation of generative models. Six substantial assignments combined mathematical derivations with PyTorch implementations.
+
+- [Coursework and implementations](./other/DGM)
+
 ## Advanced Machine Learning Specialization
 
 **Higher School of Economics | January - May 2021**
