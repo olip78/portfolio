@@ -1,0 +1,38 @@
+# ML Engineer Simulator: some problems
+ML engineer simulator is a sort of on-line problem book with a build-in grader. It contains 70- practical tasks of varying complexity with an emphasis on the engineering component and covers such topics as: time series forecasting, NLP, dynamic pricing, recommendation systems, A/B testing, advanced SQL, MLOps, testing, software development culture etc.
+
+Below are a few problems as examples:
+
+#### Hard level:
+[Dynamic pricing: optimization block](./pricing/)
+<sub><br>Integer programming, Matrix algebra</sub>
+
+[Churn rate](./churn_rate) 
+<sub><br>SQL, Linear models, Bootstrap</sub>
+
+[Boosting uncertainty](./model_uncertainty)
+<sub><br>SQL, Tree-based models, Time series</sub>
+
+[Demand forecast](./demand_forecast)
+<sub><br>Linear models, Bootstrap, ClearML, MLOps, fast API</sub>
+
+[GPT-2 app from scratch](./nlp/gpt_2)
+<sub><br>NLP, Transformers
+
+#### Medium level:
+[Recsys live-streaming platform](./recsys)
+<sub><br>Matrix factorisation, Implicit ALS, fast API</sub>
+
+[Error analysis](./error_analysis)
+<sub><br>Statistics, Programming</sub>
+
+[Sentiment analysis + Negation testing](./nlp/sentiment)
+<sub><br>BERT, Checklist</sub>
+
+#### Easy level:
+[SQL query from decision tree](./tree_sql)
+<sub><br>SQL, Programming</sub>
+
+<br>
+
+[<sub>List of all problems</sub>](https://simulator-ml.notion.site/dfcd22d2dee24176b2998c9231f79f10?v=7a44c363484b463c89c08f60ac8b351f)<br>[<sub>Certificate</sub>](https://lab.karpov.courses/live_certificate/953f01d2-cde7-415d-b60d-34cbe2be8f0f/)
