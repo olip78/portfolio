@@ -46,3 +46,5 @@ Selected projects from five two-week assignments completed between November 2022
   <br><sub>Mixed-integer linear programming for revenue and margin optimization, including business constraints on product-group prices</sub>
 - [Demand-forecasting service](./ml_simulator/demand_forecast/)
   <br><sub>Quantile regression, bootstrap uncertainty estimation, ClearML training and inference pipelines, and FastAPI</sub>
+
+[Selected professional development and certifications](./self_study.md)
