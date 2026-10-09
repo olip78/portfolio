@@ -18,7 +18,7 @@ High-level descriptions of commercial projects whose source code and client data
 
 ## Selected personal projects (2023-2024)
 
-Projects developed to gain practical experience in selected forecasting, deep-learning, and MLOps topics.
+Earlier personal projects in forecasting, deep learning, and MLOps.
 
 - [End-to-end ML service for multivariate short-term taxi-demand forecasting](https://github.com/olip78/ynyt)
   <br><sub>Fourier harmonics, spatio-temporal transformers, PyTorch, FastAPI, MLflow, Docker, Docker Swarm, GitLab CI/CD, scheduled inference</sub>
