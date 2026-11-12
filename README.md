@@ -7,6 +7,10 @@
   <br><sub>Point and probabilistic forecasting, deterministic and stochastic MILP, model-predictive control, out-of-sample economic replay, MLflow; deployment work in progress.</sub>
   <br><sub>[Technical report](https://github.com/olip78/industrial-energy-optimization/blob/main/docs/project_report.pdf)</sub>
 
+- [Retail Pricing: Forecasts, Experiments and Learning](https://github.com/olip78/retail-pricing)
+  <br><sub>Compared CatBoost with two models that separate baseline demand from price response for 11 juice products. Evaluated forecast accuracy, response stability, and how the models behave when used to optimize prices.</sub>
+  <br><sub>[Part I report](https://github.com/olip78/retail-pricing/blob/main/docs/part_1_historical_data.md)</sub>
+
 ## Selected commercial ML case studies
 
 High-level descriptions of commercial projects whose source code and client data are proprietary.
