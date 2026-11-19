@@ -4,8 +4,10 @@
 
 - [Forecasting and Optimization for Industrial Energy Management](https://github.com/olip78/industrial-energy-optimization)
   <br><sub>End-to-end decision system for an industrial consumer with flexible load, PV generation, battery storage, and access to the German day-ahead and intraday markets.</sub>
-  <br><sub>Point and probabilistic forecasting, deterministic and stochastic MILP, model-predictive control, out-of-sample economic replay, MLflow; deployment work in progress.</sub>
-  <br><sub>[Technical report](https://github.com/olip78/industrial-energy-optimization/blob/main/docs/project_report.pdf)</sub>
+  <br><sub>Deployed ML service simulating real-time industrial operation on historical data: fresh forecasts, day-ahead planning, hourly MPC and a data/model monitoring dashboard synchronized with Europe/Berlin operating hours.</sub>
+  <br><sub>Point and probabilistic forecasting, deterministic and stochastic MILP, model-predictive control, out-of-sample economic replay.</sub>
+  <br><sub>Python, CatBoost, SciPy/HiGHS, FastAPI, MLflow, Docker Compose, GitLab CI/CD, Container Registry, Nginx, SQLite, Linux/systemd, JavaScript/SVG; blue-green application deployment.</sub>
+  <br><sub>[Live ML service](http://81.26.188.18:8080) · [Technical report](https://github.com/olip78/industrial-energy-optimization/blob/main/docs/project_report.pdf) · [Service source and CI/CD](https://gitlab.com/olip78/energy-optimization)</sub>
 
 - [Retail Pricing: Forecasts, Experiments and Learning](https://github.com/olip78/retail-pricing)
   <br><sub>Compared CatBoost with two models that separate baseline demand from price response for 11 juice products. Evaluated forecast accuracy, response stability, and how the models behave when used to optimize prices.</sub>
