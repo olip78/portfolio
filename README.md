@@ -30,7 +30,7 @@ Earlier personal projects in forecasting, deep learning, and MLOps.
 
 - [End-to-end ML service for multivariate short-term taxi-demand forecasting](https://github.com/olip78/ynyt)
   <br><sub>Ridge baseline with Fourier harmonics (2020); spatio-temporal transformer (2023); PyTorch, FastAPI, MLflow, Docker, Docker Swarm, GitLab CI/CD, scheduled inference</sub>
-  <br>[Live dashboard](http://81.26.188.18:8082)
+  <br><sub>[Live dashboard](http://81.26.188.18:8082)
 - [Enefit: day-ahead forecasting of prosumer energy consumption and PV generation](https://github.com/olip78/Enefit)
   <br><sub>Multivariate time series, encoder-decoder spatio-temporal transformer, PyTorch</sub>
 - [VAE for anomaly detection in the IEEE-CIS Fraud Detection challenge](https://github.com/olip78/DGM-for-anomaly-detection)
